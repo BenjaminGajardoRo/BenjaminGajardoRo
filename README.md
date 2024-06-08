@@ -1,5 +1,3 @@
-![nhX3VEW](https://github.com/BenjaminGajardoRo/BenjaminGajardoRo/assets/134411637/d7c643e5-9682-4dd1-af5f-936f90ff13cc)
-
 <div align="center">
   <h1 align="center">Hola, soy Benjamin 👋</h1>
 </div>
