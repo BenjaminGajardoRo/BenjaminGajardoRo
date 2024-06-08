@@ -5,7 +5,7 @@
     🎥 Te enseño a programar apps en <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">YouTube</a><br>
     🎓 Estudiante de Ingeniería en Informática en Duoc UC<br>
     💻 Desarrollador web UX/UI<br>
-    🛠 Manejo de Figma, Scrum y Notion<br>
+    🛠 Scrum<br>
   </p>
   <p>
     <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1">
