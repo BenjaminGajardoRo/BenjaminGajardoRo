@@ -1,8 +1,6 @@
 ![nhX3VEW](https://github.com/BenjaminGajardoRo/BenjaminGajardoRo/assets/134411637/d7c643e5-9682-4dd1-af5f-936f90ff13cc)<div align="center">
 <h1 align="center">Hola, soy Benjamin</a> 👋</h1>
 </div>
-<img src="">
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2aZSnhYdwUdjK3ix0s0hBA?style=social)](https://www.youtube.com/channel/UC2aZSnhYdwUdjK3ix0s0hBA?sub_confirmation=1)
 [![GitHub followers](https://img.shields.io/github/followers/BenjaminGajardoRo?style=social)](https://github.com/BenjaminGajardoRo)
 ## Sobre mi
