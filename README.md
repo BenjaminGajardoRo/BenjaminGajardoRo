@@ -1,28 +1,13 @@
 <div align="center">
-  <h1>Hola, soy Benjamin 👋</h1>
-  <p>
-    ⭐ Github Star ⭐<br>
-    🎥 Mi Hobbie <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">YouTube</a><br>
-    🎓 Estudiante de Ingeniería en Informática en Duoc UC<br>
-    💻 Desarrollador web UX/UI<br>
-    🛠 Scrum<br>
-  </p>
-  <p>
-    <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UC2aZSnhYdwUdjK3ix0s0hBA?style=social" alt="YouTube Channel Subscribers">
-    </a>
-    <a href="https://github.com/BenjaminGajardoRo">
-      <img src="https://img.shields.io/github/followers/BenjaminGajardoRo?style=social" alt="GitHub followers">
-    </a>
-  </p>
+  <img src="https://i.imgur.com/Y2XH0H8.png" alt="Banner de benjita">
 </div>
 
 ## 🌟 Sobre mí
-
-- ⭐ Github Star
+- 🎥 Mi Hobbie <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">YouTube</a><br>
 - 🎓 Estudiante de Ingeniería en Informática en Duoc UC
-- 💻 Desarrollador web UX/UI
+- 👨‍💻 Desarrollador web UX/UI
 - 🛠 Manejo de Figma, Scrum y Notion
+- 💼 Scrum
 
 ## ⚙️ Conocimientos en:
 
