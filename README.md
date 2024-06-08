@@ -19,7 +19,7 @@
 🌟 Sobre mí
 
     ⭐ Github Star
-    🎥 Te enseño a programar apps en YouTube
+    🎥 Te enseño a programar apps en [YouTube](https://www.youtube.com/@benhigh_?sub_confirmation=1)
     🎓 Estudiante de Ingeniería en Informática en Duoc UC
     💻 Desarrollador web UX/UI
     🛠 Manejo de Figma, Scrum y Notion
