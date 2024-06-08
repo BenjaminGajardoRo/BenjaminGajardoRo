@@ -2,7 +2,7 @@
   <h1>Hola, soy Benjamin 👋</h1>
   <p>
     ⭐ Github Star ⭐<br>
-    🎥 Te enseño a programar apps en <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">YouTube</a><br>
+    🎥 Mi Hobbie <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">YouTube</a><br>
     🎓 Estudiante de Ingeniería en Informática en Duoc UC<br>
     💻 Desarrollador web UX/UI<br>
     🛠 Scrum<br>
