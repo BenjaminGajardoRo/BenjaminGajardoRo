@@ -50,14 +50,14 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">¡Proyectos en Desarrollo!</h3>
+      <h3 align="center">Proyectos en Desarrollo</h3>
       <div align="center">
         <p>
           <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">
             <img src="https://img.shields.io/youtube/channel/subscribers/UC2aZSnhYdwUdjK3ix0s0hBA?style=social" alt="YouTube Channel Subscribers">
           </a>
         </p>
-        <p>Estamos trabajando en nuevos proyectos, ¡se vienen cosas emocionantes!</p>
+        <p>Estamos trabajando en nuevos proyectos</p>
       </div>
     </td>
   </tr>
