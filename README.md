@@ -3,7 +3,6 @@
 </div>
 
 ## 🌟 Sobre mí
-- 🎥 Mi Hobbie <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">YouTube</a><br>
 - 🎓 Estudiante de Ingeniería en Informática en Duoc UC
 - 👨‍💻 Desarrollador web UX/UI
 - 🛠 Manejo de Figma, Scrum y Notion
@@ -53,7 +52,7 @@
       <h3 align="center">Proyectos en Desarrollo</h3>
       <div align="center">
         <p>
-          <a href="https://www.youtube.com/@benhigh_?sub_confirmation=1" target="_blank">
+          <a href="https://www.youtube.com/@_?sub_confirmation=1" target="_blank">
             <img src="https://img.shields.io/youtube/channel/subscribers/UC2aZSnhYdwUdjK3ix0s0hBA?style=social" alt="YouTube Channel Subscribers">
           </a>
         </p>
